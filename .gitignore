@@ -1,0 +1,11 @@
+.idea/*
+*.class
+
+*.war
+*.jar
+*.ear
+
+.gitignore
+SimpleCalculator.iml
+out/production/SimpleCalculator/sample/sample.fxml
+src/
